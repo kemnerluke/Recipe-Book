@@ -1,5 +1,16 @@
 # RecipeBook
 
+A Angular 9 Recipe Book Application that allows the user to manage recipes,view them in detail, edit a shopping list and push ingredients from recipes to the shopping list.
+
+
+![recipe](https://user-images.githubusercontent.com/37083547/75787881-648f8a80-5d35-11ea-853a-7b5ffe87be1a.png)
+
+
+![recipe2](https://user-images.githubusercontent.com/37083547/75787915-72451000-5d35-11ea-957a-281d1d2284f0.png)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
 ## Development server
